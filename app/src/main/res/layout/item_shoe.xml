@@ -47,7 +47,6 @@
             android:fontFamily="@font/roboto_medium"
             android:textColor="@color/white_100"
             android:textSize="@dimen/text_h2"
-            android:text="@{Double.toString(shoe.size)}"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             tools:text="10.5" />
